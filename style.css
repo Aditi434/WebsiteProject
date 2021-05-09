@@ -1,0 +1,20 @@
+
+.announcement marquee
+{
+    background-color:#63185A;
+    font-size: 17px;
+    color: white;
+}
+
+.columnmap {
+  float: left;
+}
+
+.columndetails {
+  float: left;
+    padding-left: 30px;
+}
+.page-header:after {
+  display: table;
+
+}
